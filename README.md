@@ -1,8 +1,6 @@
-# hello-web
+# Computer Science 2
 A repository created for CS2.
-# sample text
-   Sample text  
-   sample text.  
+# sample text   
 (https://www.google.com)
 ---
 Inline-style: 
