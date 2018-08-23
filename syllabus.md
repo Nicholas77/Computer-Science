@@ -76,7 +76,7 @@ Research, as well as personal experience, shows that students tend to understand
 
 | Print and Sign Name on Marks Below  |                   | 
 | ----------------------------------- | ----------------- |
-| x                   |                   |
+| checky.png                   |                   |
 | Student's Name                      | Date              |
 | x                   |                   |
 | Student's Signature                 | Date              |
