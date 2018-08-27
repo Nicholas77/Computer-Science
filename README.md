@@ -6,3 +6,7 @@ A simple repository containing files related to the Computer Science 2 course at
 
 ---
 [Computer Science 2 Course Description](https://github.com/Nicholas77/Computer-Science/blob/master/Course-Description.md)
+
+---
+
+[What is Computer Science 2?](https://github.com/Nicholas77/Computer-Science/blob/master/What%20is%20CompSci.md)
