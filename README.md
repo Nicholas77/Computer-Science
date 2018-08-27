@@ -10,3 +10,7 @@ A simple repository containing files related to the Computer Science 2 course at
 ---
 
 [What is Computer Science 2?](https://github.com/Nicholas77/Computer-Science/blob/master/What%20is%20CompSci.md)
+
+---
+
+[Important People to Know](https://github.com/Nicholas77/Computer-Science/blob/master/People%20of%20Interest.md)
