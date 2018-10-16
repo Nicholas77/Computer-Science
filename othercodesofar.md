@@ -195,4 +195,4 @@ tri5.draw()
 tri5.set_color("black")
 
 
-Paper.display()```
+Paper.display()
