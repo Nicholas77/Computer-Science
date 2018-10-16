@@ -1,5 +1,5 @@
-    # Code Work so far
-    The following code was written in Python 3:
+   # Code Work so far
+   The following code was written in Python 3:
     import turtle
 
     wn=turtle.Screen()
