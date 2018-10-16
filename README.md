@@ -18,3 +18,7 @@ A simple repository containing files related to the Computer Science 2 course at
 ---
 
 [Turtle Coding so far](https://github.com/Nicholas77/Computer-Science/blob/master/codingsofar.md)
+
+---
+
+[More coding with digital art](https://github.com/Nicholas77/Computer-Science/blob/master/othercodesofar.md)
