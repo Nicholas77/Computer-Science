@@ -14,3 +14,7 @@ A simple repository containing files related to the Computer Science 2 course at
 ---
 
 [Important People to Know](https://github.com/Nicholas77/Computer-Science/blob/master/People%20of%20Interest.md)
+
+---
+
+[Turtle Coding so far](https://github.com/Nicholas77/Computer-Science/blob/master/codingsofar.md)
