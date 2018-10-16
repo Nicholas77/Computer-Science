@@ -3,7 +3,7 @@
 The following code was written as an alternative to Turtles in Python
 ---
 
-`from shapes import Triangle, Rectangle, Oval, Paper
+```from shapes import Triangle, Rectangle, Oval, Paper
 
 rect1 = Rectangle()
 
@@ -195,4 +195,4 @@ tri5.draw()
 tri5.set_color("black")
 
 
-Paper.display()
+Paper.display()```
