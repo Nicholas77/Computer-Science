@@ -5,7 +5,7 @@ The following code was written as an alternative to Turtles in Python
 
 `from shapes import Triangle, Rectangle, Oval, Paper
 
-`rect1 = Rectangle()
+rect1 = Rectangle()
 
 rect1.set_width(200)
 rect1.set_height(100)
